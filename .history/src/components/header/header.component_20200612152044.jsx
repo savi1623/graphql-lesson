@@ -2,8 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import { auth } from '../../firebase/firebase.utils';
-import { default as CartIcon } from '../cart-icon/cart-icon.container';
-import { default as CartDropdown } from '../cart-dropdown/cart-dropdown.container';
+// import { default as CartIcon } from '../cart-icon/cart-icon.container';
+// import { default as CartDropdown } from '../cart-dropdown/cart-dropdown.container';
 
 import { ReactComponent as Logo } from '../../assets/crown.svg';
 
